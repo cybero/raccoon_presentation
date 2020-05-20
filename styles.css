@@ -15,19 +15,19 @@ body {
 /* Slide backgrounds */
 
 #slide1 {
-	background-image: url(/images/raccoon1.jpg);
+	background-image: url(./images/raccoon1.jpg);
 }
 
 #slide2 {
-	background-image: url(/images/raccoon2.jpg);
+	background-image: url(./images/raccoon2.jpg);
 }
 
 #slide3 {
-	background-image: url(/images/raccoon3.jpg);
+	background-image: url(./images/raccoon3.jpg);
 }
 
 #slide4 {
-	background-image: url(/images/raccoon4.jpg);
+	background-image: url(./images/raccoon4.jpg);
 }
 
 .slide {
